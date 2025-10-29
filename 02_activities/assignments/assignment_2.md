@@ -10,27 +10,42 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      Source: https://public.tableau.com/views/test_16130388902760/Diversity-nosplit?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
-
-
-
-
-
+      I classify the data visualization with gender, racial and age representation as bad. 
+      - The visualization lacks titles for all three horizontal bar graphs, thus it is not as substantive as it could be. 
+      - The chosen visualization type (horizontal bar graph) is not the most appropriate or efficient to convey the information on representation/proportion, leading to a lack of perceptual qualities.
+      - Some of the labels are absent in the visualization, leading to confusion/cognitive load to interpret the data. 
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
 
-
-
-
-
-
+      This visualization could be improved in the following ways:
+      - A pie chart would better demonstrate the proportions of different groups. 
+      - I would add titles to the visualizations, for example, "Gender Representation", "Racial Representation", and "Age Distribution". 
+      I would also clearly label the categories. For example, I would write out "male" and "female" instead of "M" and "F". 
       
+       ```
+-    - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-- Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
+      Source: https://public.tableau.com/views/test_16130388902760/Diversity-nosplit?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+
+      I classify the data visualization of gender pay gap as good. 
+      -  First off, choosing median as the measure of central tendency is a good choice. It is less influenced by outliers compared to mean, so it's a better measure when comparing average salaries between men and women. 
+      - The visualization shows the spread of salaries across men and women clearly with appropriate labels and titles. The scale also ranges from 0K (lowest possible value in the dataset) to 160K (the highest value in this dataset), thus the difference between the groups is accurately and honestly represented (substantive quality). 
+      - The difference between the average values is captured through a percentage value in the middle, leading to easy interpretation of the visual difference. This also improves the perceptual quality of the graph, as it conveys the message of gender pay gap in one glance. 
+
+      ```
+    - How could this data visualization have been improved?  
+      ```
+
+      This visualization could be improved in the following ways:
+      - In this graph, the darker areas indicate higher frequencies, while lighter areas indicate lower frequencies. However, the saturation levels between these could be increased since it is hard to read the frequencies. There is not enough variation between the lightest and the darkest blue and green. This would improve the substantive and perceptual quality of the graph. 
+      - It would be helpful to have frequency data per category displayed when we hover the interval, for example, the number of women with salaries ranging between 20K and 40K, between 60K and 80K, etc. This is more helpful than seeing the exact salary of each employee in the dataset. This can also leak confidential information. 
+
+        ```
+Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
 
 ### Why am I doing this assignment?:
